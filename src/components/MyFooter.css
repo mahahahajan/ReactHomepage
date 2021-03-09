@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik&display=swap');
+
+.connect {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    background-color: #1A1B1E;
+    font-family: 'Rubik', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    color:#ababab;
+}
+.footer{
+    width: 100%;
+    border-top: 1px solid #F5F5F5;
+    background-color: #101114;
+    color: #5e5e5e;
+    
+    /* margin-bottom: -100px; */
+}
+.workTexts{
+    font-size: 3.2rem;
+    color: white;
+}
+.pushDown{
+    padding-top: 8%;
+}
+p{
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    padding-top: 2.5%;
+}

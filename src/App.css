@@ -1,5 +1,37 @@
 .App {
-  text-align: center;
+  /* background-color: #161614; */
+  /* height: 200vh; */
+  font-family: 'Rubik', sans-serif !important;
+}
+a{
+  color: inherit!important;
+
+}
+a:hover{
+  text-decoration: none;
+}
+
+.bg-darkTheme {
+  background-color: #1A1B1E;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  /* border-bottom: .1em solid #121316; */
+}
+
+.navbar-brand {
+  margin-left: 4%;
+  font-size: 1.75rem;
+  border-bottom: 5px solid #28a745;
+  /* border-radius: 0 5px 5px 0; */
+}
+
+.nav-link {
+  color: #ababab!important;
+  font-size: 1.375rem;
+}
+
+.navbar-nav {
+  padding-right: 15% !important;
 }
 
 .App-logo {
@@ -32,6 +64,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

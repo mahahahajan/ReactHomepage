@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik&display=swap');
+
+.carousel{
+    /* background-color: #1A1B1E; */
+    padding: 10%;
+}
+
+.resize1{
+    margin: auto;
+    max-width: 90%!important;
+    max-height: 85vh;
+}
