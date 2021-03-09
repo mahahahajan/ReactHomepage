@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactHomepage/static/css/main.9c9ab786.chunk.css",
-    "main.js": "/ReactHomepage/static/js/main.37816852.chunk.js",
-    "main.js.map": "/ReactHomepage/static/js/main.37816852.chunk.js.map",
-    "runtime-main.js": "/ReactHomepage/static/js/runtime-main.d5ab9b2b.js",
-    "runtime-main.js.map": "/ReactHomepage/static/js/runtime-main.d5ab9b2b.js.map",
+    "main.js": "/ReactHomepage/static/js/main.4226f119.chunk.js",
+    "main.js.map": "/ReactHomepage/static/js/main.4226f119.chunk.js.map",
+    "runtime-main.js": "/ReactHomepage/static/js/runtime-main.b2d7c34e.js",
+    "runtime-main.js.map": "/ReactHomepage/static/js/runtime-main.b2d7c34e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/ReactHomepage/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c5da1431.chunk.js": "/ReactHomepage/static/js/2.c5da1431.chunk.js",
-    "static/js/2.c5da1431.chunk.js.map": "/ReactHomepage/static/js/2.c5da1431.chunk.js.map",
-    "static/js/3.31260977.chunk.js": "/ReactHomepage/static/js/3.31260977.chunk.js",
-    "static/js/3.31260977.chunk.js.map": "/ReactHomepage/static/js/3.31260977.chunk.js.map",
+    "static/js/2.5e126446.chunk.js": "/ReactHomepage/static/js/2.5e126446.chunk.js",
+    "static/js/2.5e126446.chunk.js.map": "/ReactHomepage/static/js/2.5e126446.chunk.js.map",
+    "static/js/3.c054d923.chunk.js": "/ReactHomepage/static/js/3.c054d923.chunk.js",
+    "static/js/3.c054d923.chunk.js.map": "/ReactHomepage/static/js/3.c054d923.chunk.js.map",
     "index.html": "/ReactHomepage/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/ReactHomepage/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.9c9ab786.chunk.css.map": "/ReactHomepage/static/css/main.9c9ab786.chunk.css.map",
-    "static/js/2.c5da1431.chunk.js.LICENSE.txt": "/ReactHomepage/static/js/2.c5da1431.chunk.js.LICENSE.txt",
+    "static/js/2.5e126446.chunk.js.LICENSE.txt": "/ReactHomepage/static/js/2.5e126446.chunk.js.LICENSE.txt",
     "static/media/DSC_0005.cca68270.jpg": "/ReactHomepage/static/media/DSC_0005.cca68270.jpg",
     "static/media/DSC_0831.52ebb057.jpg": "/ReactHomepage/static/media/DSC_0831.52ebb057.jpg",
     "static/media/V2ScreenShot.495a250d.png": "/ReactHomepage/static/media/V2ScreenShot.495a250d.png",
@@ -23,10 +23,10 @@
     "static/media/tBell.28b98098.jpg": "/ReactHomepage/static/media/tBell.28b98098.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5ab9b2b.js",
+    "static/js/runtime-main.b2d7c34e.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c5da1431.chunk.js",
+    "static/js/2.5e126446.chunk.js",
     "static/css/main.9c9ab786.chunk.css",
-    "static/js/main.37816852.chunk.js"
+    "static/js/main.4226f119.chunk.js"
   ]
 }
