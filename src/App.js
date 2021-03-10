@@ -38,7 +38,7 @@ function App() {
             </NavDropdown> */}
             </Nav>
             <Nav >
-              <Nav.Link> <Link to="/AboutPhotos" onClick={() =>setLogo("Pukit Mahajan")}> About </Link></Nav.Link>
+              <Nav.Link> <Link to="/AboutPhotos" onClick={() =>setLogo("Pulkit Mahajan")}> About </Link></Nav.Link>
               <Nav.Link> <Link to="/Projects" onClick={() =>setLogo("Pulkit Mahajan")}>Projects </Link> </Nav.Link>
             </Nav>
           </Navbar.Collapse>

@@ -67,7 +67,7 @@ class ProjectLeft extends React.Component {
                             Designed UI/UX, VFX for game
                         </li>
                         <div className="horizontalCenter">
-                        <Button variant="success" block={true} size="lg">View Others</Button>{' '}
+                        {/* <Button variant="success" block={true} size="lg">View Others</Button>{' '} */}
                     </div>
                     </div>
                 </div>
@@ -119,8 +119,6 @@ class ProjectRight extends React.Component {
                         <Image src={this.state.img} className="myImg" rounded />
                     </div>
                 </div>
-
-
                 <div className="myRow vspace">
 
                 </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Image, Button } from 'react-bootstrap';
+import {Link} from 'react-router-dom';
 import './FeaturedProjects.css';
 import v2SC from "../images/V2ScreenShot.png"
 
@@ -34,7 +35,7 @@ function FeaturedProjects(props) {
                 </div>
                 <div className="myRow">
                     <div className="horizontalCenter">
-                        <Button variant="success" block={true} size="lg">View Others</Button>{' '}
+                        <Button variant="success" block={true} size="lg" Link> <Link to="/Projects">View Others</Link></Button>{' '}
                     </div>
                 </div>
             </div >

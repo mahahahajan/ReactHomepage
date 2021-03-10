@@ -9,6 +9,7 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn'; 
 import EmailIcon from '@material-ui/icons/Email';
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 
 function MyFooter(props) {
@@ -22,10 +23,10 @@ function MyFooter(props) {
                             <h3> Have a project you'd like to discuss? </h3>
                         </div>
                         <div className="rightCenter">
-                            <h4 className="socialLink"> <EmailIcon style={{color: green[500]}}></EmailIcon> Email </h4>
-                            <h4 className="socialLink"> <InstagramIcon style={{color: green[500]}}></InstagramIcon> Instagram </h4>
-                            <h4 className="socialLink"> <FacebookIcon style={{color: green[500]}}></FacebookIcon>Facebook </h4>
-                            <h4 className="socialLink"> <LinkedInIcon style={{color: green[500]}}></LinkedInIcon>Linkedin </h4>
+                            <a className="socialLink" href="mailto:pmahajan@utexas.edu"> <EmailIcon style={{color: green[500]}}></EmailIcon> Email </a>
+                            <a className="socialLink" href="https://www.instagram.com/mahahahajan/"> <InstagramIcon style={{color: green[500]}}></InstagramIcon> Instagram </a>
+                            <a className="socialLink" href="https://github.com/mahahahajan"> <GitHubIcon style={{color: green[500]}}></GitHubIcon> Github </a>
+                            <a className="socialLink" href="https://linkedin.com/in/mahahahajan/"> <LinkedInIcon style={{color: green[500]}}></LinkedInIcon>Linkedin </a>
                             
                         </div>
                     </div>
